@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Ned Malki, Founder and Systems Integrator at Ottomato</title>
+  <desc id="d">Agents, custom software and infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f3ea"/>
+      <stop offset="1" stop-color="#e8e4d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#455853" stroke-opacity="0.35"/>
+
+  <!-- data highway motif -->
+  <g fill="none" stroke="#1f75bb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 210 H820 L860 170 H1000 L1040 130 H1140" opacity="0.9"/>
+    <path d="M700 150 H760 L800 110 H920 L960 70 H1140" opacity="0.55"/>
+    <path d="M760 250 H900 L940 210 H1140" opacity="0.4"/>
+  </g>
+  <g fill="#1b6aad">
+    <circle cx="700" cy="210" r="5"/>
+    <circle cx="860" cy="170" r="5"/>
+    <circle cx="1040" cy="130" r="5"/>
+    <circle cx="700" cy="150" r="4" opacity="0.7"/>
+    <circle cx="920" cy="110" r="4" opacity="0.7"/>
+    <circle cx="900" cy="250" r="4" opacity="0.55"/>
+    <circle cx="1140" cy="210" r="4" opacity="0.55"/>
+  </g>
+  <circle cx="1140" cy="130" r="7" fill="#1d8f49"/>
+  <circle cx="1140" cy="130" r="13" fill="none" stroke="#1d8f49" stroke-opacity="0.4" stroke-width="2"/>
+
+  <!-- text -->
+  <text x="64" y="118" fill="#1f2a27" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5">Ned Malki</text>
+  <text x="64" y="166" fill="#2a3a35" font-family="Inter, 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="400">Founder &amp; Systems Integrator at <tspan fill="#1b6aad" font-weight="600">Ottomato</tspan></text>
+  <text x="64" y="228" fill="#1b6aad" font-family="'JetBrains Mono', 'Cascadia Mono', Consolas, Menlo, monospace" font-size="18" letter-spacing="0.5">agents · custom software · infrastructure</text>
+</svg>
